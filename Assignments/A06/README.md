@@ -13,6 +13,14 @@ Given a somewhat large number, determine if it is prime or if it can be factored
 - If it is factorable write out the factors.
 - Run your program like: `python get_factors.py input_file=numbers`
 
+Example Input
+```
+231697363
+709
+246641520131
+72490732415291
+```
+
 Example Output
 ```
 Name: Joe Sue
